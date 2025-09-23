@@ -7,7 +7,7 @@ dic = {
 
 dic["email"]
 dic["Nome"]
-dic[Idade]
+dic["Idade"]
 
 import pandas as pd
 pd.DataFrame({dic})
