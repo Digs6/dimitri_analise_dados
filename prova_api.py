@@ -63,14 +63,15 @@ lista_resultado = []
 # 5 - Faca um merge com ncr_ride_regions.xlsx pela coluna ("Pickup Location") para pegar as regioes das corrifas.
 # e verifique qual a Regiao com o maior Valor da corrida?
 arquivo = f"C:\\Users\\dimit\\Documents\\analise_dados\\ncr_ride_bookings.csv"
-
+df = pd.read_csv(arquivo)
 arquivo = f"C:\Users\dimit\Documents\analise_dados\ncr_ride_regioes.xlsx"
+df2 = pd.read_xlsx(arquivo)
 response.status_code
 response = response.json()
 dados = response["dados"][0]
 balanco = dados["balanco"]
 df = pd.DataFrame(balanco)
-pd.merge(df, , on="", how="")
+pd.merge(df, df2 , on="", how="")
 
 # 6 - O IPEA disponibiliza uma API pública com diversas séries econômicas. 
 # Para encontrar a série de interesse, é necessário primeiro acessar o endpoint de metadados.
