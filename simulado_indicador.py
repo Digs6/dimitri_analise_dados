@@ -73,3 +73,7 @@ dados = dados["balanco"]
 df = pd.DataFrame(dados)
 filtro = (df["descricao"]=="Ativo Total") & (df["conta"]=="1")
 df.loc[filtro]["valor"].iloc[0]
+
+git add . 
+git commit -m""
+git push origin main

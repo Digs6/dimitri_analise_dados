@@ -22,7 +22,7 @@ len(df)
 # Construa um DataFrame com os modelos disponíveis.
 # Responda: quantos modelos de veículos BYD estão cadastrados na FIPE?
 
-import requests
+import requests as rq
 import pandas as pd
 tipoVeiculo = "carros"
 api = f"https://brasilapi.com.br/api/fipe/marcas/v1/{tipoVeiculo}"
