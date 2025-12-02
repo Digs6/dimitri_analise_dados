@@ -1,0 +1,32 @@
+ Nascidos vivos - São Paulo
+Nascim p/resid.mãe por Mês do nascimento
+Município: 355030 SAO PAULO
+Período:2013
+"Mês do nascimento";"Nascim_p/resid.mãe"
+"Janeiro";14578
+"Fevereiro";14273
+"Marco";15319
+"Abril";15478
+"Maio";15371
+"Junho";14335
+"Julho";14568
+"Agosto";14216
+"Setembro";13831
+"Outubro";13784
+"Novembro";13143
+"Dezembro";14091
+"Total";172987
+ Fonte: MS/SVSA/CGIAE - Sistema de Informações sobre Nascidos Vivos - SINASC
+ Consulte o site da Secretaria Estadual de Saúde para mais informações.
+ Notas:
+ 
+ Dados finais disponíveis até 2023. Dados preliminares de 2024 atualizados em 10/2025.
+ Em 2011, houve uma mudança no conteúdo da Declaração de Nascidos Vivos, com maior detalhamento das informações coletadas. Para este ano, foram
+ utilizados simultaneamente os dois formulários. Para mais detalhes sobre as mudanças ocorridas e os seus efeitos, veja o documento
+ "Consolidação do Sistema de Informações sobre Nascidos Vivos - 2011".
+ 
+ * A categorização da "Adequação quantitativa de pré-natal" mostrada na variável "Adeq quant pré-natal" considera o início do
+ pré-natal no primeiro trimestre e um mínimo de seis consultas de pré-natal –, sendo gravada em campo chamado Kotelchuck no
+ arquivo disponível para download, calculado a partir dos campos “33 – Número de consultas pré-natal” (Mesprenat) e “34 – Mês de gestação em que iniciou o pré-natal” (Consprenat).
+ Maiores informações no documento "Saúde Brasil 2017: uma análise da situação de saúde e os desafios para o alcance dos Objetivos de Desenvolvi
+ 
